@@ -13,7 +13,7 @@ export default instance;
 
 // import axios from 'axios';
 
-// const apiKey = '70784c3c147a97e89318635d3a767fb1';
+// const apiKey = '357d46d3b0be23510eb44a285e06602a';
 
 // const instance = axios.create({
 //   baseURL: process.env.REACT_APP_API_BASE_URL,
